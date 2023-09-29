@@ -15,6 +15,7 @@ function App() {
         <Route path='/home' element = {<Home />} />
         <Route path='/watch-history' element={<WatchHistory />} />
       </Routes>
+      <hr />
       <Footer />
     </div>
   );
