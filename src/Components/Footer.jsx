@@ -8,7 +8,7 @@ function Footer() {
             <div className="footer w-100">
                 <div className="footer-content d-flex justify-content-evenly">
                     <div className="website m-3" style={{width: '300px'}}>
-                        <h3>Bootstrap</h3>
+                        <h3><i className="fa-solid fa-circle-play"></i> MediaPoint</h3>
                         <h6>Designed and built with all the love in the world by the Bootstrap team with the help of our contributors.</h6>
                         <p>Currently v1.0.0</p>
                         </div>
